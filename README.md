@@ -4,6 +4,8 @@
 A simple and user-friendly web application to generate and download QR codes instantly.
 
 ![image](https://github.com/user-attachments/assets/ae073dab-d4a2-49a9-9717-c5bf964daa6b)
+![image](https://github.com/user-attachments/assets/8f716100-3bbd-4bae-8bcb-33e36c9bd27f)
+
 
 
 ## 🚀 Features
