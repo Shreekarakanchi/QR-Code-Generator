@@ -22,7 +22,7 @@ A simple and user-friendly web application to generate and download QR codes ins
 
 ## 📸 Preview
 
-![QR Code Generator Preview](preview.gif) <!-- Optional: Add a preview gif -->
+https://shreekarakanchi.github.io/QR-Code-Generator/
 
 ## 📦 Installation
 
