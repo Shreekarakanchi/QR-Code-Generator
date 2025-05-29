@@ -10,7 +10,7 @@ A simple and user-friendly web application to generate and download QR codes ins
 
 ## 🚀 Features
 
-- Generate QR codes from any URL or text
+- Generate QR codes from any URL or text.
 - Download QR codes as PNG images
 - Clean, responsive and modern UI
 - No backend required – fully client-side
